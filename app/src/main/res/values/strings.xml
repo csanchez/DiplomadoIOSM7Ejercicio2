@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Ejercicio2M7</string>
+
+
+    <string name="error">No se encuentra la información revice su conexion</string>
+    <string name="error2">Opcion incorrecta</string>
+
+    <string name="buscar">Buscar</string>
+    <string name="agregar">Agregar</string>
+    <string name="borrar">Borrar</string>
+    <string name="buscarText">Buscar alumno</string>
+    <string name="labelForMaterias">Lista de materias</string>
+    <string name="labelForNuevaMateria">Datos de materias</string>
+
+
+    <string name="borrado">Alumno eliminado de la BAse de datos exitosamente</string>
+    <string name="noEncontrado">Alumno no encontrado en la Base de Datos. Proporcione un número de cuenta</string>
+    <string name="alumnoNoValido">Datos del alumno incorrectos</string>
+    <string name="materiaNoValido">Datos de la materia incorrectos</string>
+
+
+    <string name="nuevoAlumnoCuenta">Cuenta</string>
+    <string name="nueoAlumnoNombre">Nombre</string>
+    <string name="nueoAlumnoEdad">Edad</string>
+
+    <string name="nuevaMateriaId">ID</string>
+    <string name="nuevaMateriaNombre">Nombre</string>
+    <string name="nuevaMateriaCreditos">Cred</string>
+
+    <string name="addMateriaBUtton">Agregar</string>
+    <string name="addAlumno">Guardar</string>
+
+
+    <string name="dispositivos_moviles_8">Dispositivos Moviles 8</string>
+    <string name="nuevoAlumno">Agregar alumno</string>
+    <string name="verAlumno">Ver alumno</string>
+    <string name="borrarAlumno">Borrar alumno</string>
+
+    <string name="titulo_barra">Modulo 7 de Android</string>
+    <string name="logo_unam">Logo UNAM</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+
+</resources>

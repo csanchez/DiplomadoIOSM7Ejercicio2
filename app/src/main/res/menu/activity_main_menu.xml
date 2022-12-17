@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subititulo_uno"
+            android:title="Material Design">
+            <menu>
+                <item
+                    android:id="@+id/verAlumnoMenuItem"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/verAlumno" />
+                <item
+                    android:id="@+id/nuevoAlumnoMenuItem"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/nuevoAlumno" />
+                <item
+                    android:id="@+id/borrarAlumnoMenuItem"
+                    android:icon="@drawable/ic_baseline_description_24"
+                    android:title="@string/borrarAlumno" />
+            </menu>
+        </item>
+    </group>
+</menu>
